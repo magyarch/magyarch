@@ -1,6 +1,6 @@
-# 👋 Helló, 
+# 👋 Helló, mi az amit itt találsz?
 
-🔹 **Arch Linux alapú projektek és window manager konfigurációk**  
+🔹 **Arch Linux és NixOS window manager konfigurációk**  
 🔹 **Minimalista, gyors és testreszabható környezetek**  
 🔹 **Saját telepítő és ISO build**  
 
