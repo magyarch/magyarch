@@ -19,13 +19,9 @@
 
 ---
 
-## 🛠 Használt technológiák
-Linux · Arch · NixOS · Shell script · PKGBUILD · Tiling WM-ek (Sway, Hyprland, DWM, stb.)
-
----
-
 ## 📸 Példa (Sway)
-![sway screenshot](https://user-images.githubusercontent.com/00000000/xxxxxx.png)  
+![sway screenshot](https://user<img width="2560" height="1440" alt="screenshot" src="https://github.com/user-attachments/assets/fead0446-6f5e-48df-9946-9f9f818cfff5" />
+-images.githubusercontent.com/00000000/xxxxxx.png)  
 *(ide tegyél egy képet a saját környezetedről — sokkal vonzóbb lesz a profilod!)*
 
 ---
